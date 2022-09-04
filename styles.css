@@ -74,7 +74,7 @@ main{
     border-radius: 8px;
     padding: 2em;
     background-color: var(--bg-card-color);
-    box-shadow: 0px 1px 6px -1px #000000;
+    box-shadow: 2px 2px 15px -2px #000000;
 }
 
 
@@ -106,19 +106,19 @@ main{
 
 
 .card--aqua{
-    border-top: solid 2px var(--card-aqua);
+    border-top: solid 3px var(--card-aqua);
 }
 
 .card--red{
-    border-top: solid 2px var(--card-red);
+    border-top: solid 3px var(--card-red);
 }
 
 .card--yellow{
-    border-top: solid 2px var(--card-yellow);
+    border-top: solid 3px var(--card-yellow);
 }
 
 .card--blue{
-    border-top: solid 2px var(--card-blue);
+    border-top: solid 3px var(--card-blue);
 }
 
 
