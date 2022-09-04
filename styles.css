@@ -74,7 +74,7 @@ main{
     border-radius: 8px;
     padding: 2em;
     background-color: var(--bg-card-color);
-    box-shadow: 2px 2px 15px -2px #000000;
+    box-shadow: 5px 5px 15px -7px #000000;
 }
 
 
