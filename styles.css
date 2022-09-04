@@ -131,17 +131,16 @@ main{
 
 
     main{
-        max-width: 1400px;
+        border: solid 1px black;
+        max-width: 1000px;
     }
 
 
     .cards{
         justify-content: center;
         grid-template-columns: repeat(3,minmax(min(100%,150px)),300px);
-        grid-template-rows: 300px, 150px, 300px, 1500px;
         column-gap: 1em;
     }
-
 
     .card--red{
         grid-column: 2;
